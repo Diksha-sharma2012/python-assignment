@@ -20,3 +20,6 @@ employees.
  5. **Assignment 5 - Performing some operations on text file in Python.**
     - Analyze a text file by computing word statistics, space and character counts, unique words, punctuation, numerical digits, and sorting words. Also, find the 
       longest/shortest word, word frequency, and directory details.
+
+ 6. **Assignment 6 - Sorting File Paths in Python**
+    - Write a Python program to sort a list of file paths in a natural, human-readable order.     

@@ -1,4 +1,3 @@
-# import re
 import os
 from pathlib import Path
 
@@ -34,12 +33,6 @@ file_paths = [
     'static\\pdf\\01 Adsolut initiatie\\page_8.pdf', 
     'static\\pdf\\01 Adsolut initiatie\\page_9.pdf'
 ]
-
-# basename = os.path.basename("static\\pdf\\01 Adsolut initiatie\\page_9.pdf")
-# basename = os.path.split("static\\pdf\\01 Adsolut initiatie\\page_9.pdf")
-# basename = Path("static\\pdf\\01 Adsolut initiatie\\page_9.pdf").stem
-# page = (os.path.basename('static\\pdf\\01 Adsolut initiatie\\page_9.pdf').replace(".pdf", ""))
-# print(page.split("_")[1])
 
 sorted_path = sorted(file_paths, key=lambda x: int(os.path.basename(x).replace(".pdf", "").split("_")[1]), reverse=True)
 print(sorted_path)         

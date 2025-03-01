@@ -11,5 +11,10 @@ employees.
    - The file contains English words corresponding to its Punjabi words. 
    - Perform search operation in such a way that it returns English words by taking Punjabi 
      words as an input. 
-   - The Solution must be optimized.   
+   - The Solution must be optimized.
+
+ 4. **Assignment 4 - program that takes an integer as input from the user and displays the 
+     corresponding word for that number.**
+    - program that takes an integer as input from the user and displays the 
+      corresponding word for that number.
 

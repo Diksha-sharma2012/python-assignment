@@ -13,8 +13,10 @@ employees.
      words as an input. 
    - The Solution must be optimized.
 
- 4. **Assignment 4 - program that takes an integer as input from the user and displays the 
-     corresponding word for that number.**
+ 4. **Assignment 4 - Program to convert integer to word.**
     - program that takes an integer as input from the user and displays the 
       corresponding word for that number.
 
+ 5. **Assignment 5 - Performing some operations on text file in Python.**
+    - Analyze a text file by computing word statistics, space and character counts, unique words, punctuation, numerical digits, and sorting words. Also, find the 
+      longest/shortest word, word frequency, and directory details.

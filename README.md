@@ -22,4 +22,7 @@ employees.
       longest/shortest word, word frequency, and directory details.
 
  6. **Assignment 6 - Sorting File Paths in Python**
-    - Write a Python program to sort a list of file paths in a natural, human-readable order.     
+    - Write a Python program to sort a list of file paths in a natural, human-readable order.
+   
+ 7. **Assignment 7 - Bank System**
+     - Implement Savings and Current Accounts with validation, transaction logging, account details, and withdrawal/deposit rules. 
